@@ -43,4 +43,3 @@ int	ft_atoi(const char *str)
 	}
 	return (sum * sign);
 }
-char ptr[] = "-12";
